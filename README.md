@@ -17,7 +17,7 @@ This is my personal resume. Inspired by [Dr. Angela Yu](https://github.com/angel
 
 ### Links
 
--   [Live Site](https://farhanrmdhany.github.io/CV---HTML-Based/)
+-   [Live Site](https://farhanrmdhany.github.io/CV-HTML-Based/)
 
 ## My process
 
