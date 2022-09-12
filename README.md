@@ -1,6 +1,6 @@
 # CV with HTLM based
 
-This is my personal resume. Inspired by Dr. Angela Yu (https://github.com/angelabauer) and several IT professors. Simplification is key!
+This is my personal resume. Inspired by [Dr. Angela Yu](https://github.com/angelabauer) and several IT professors. Simplification is key!
 
 ## Table of contents
 
@@ -17,14 +17,13 @@ This is my personal resume. Inspired by Dr. Angela Yu (https://github.com/angela
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   [Live Site](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
--   HTML with Atom 1.60.0 (<https://atom.io/>)
+-   HTML with [Atom 1.60.0](<https://atom.io/>)
 
 ### Continued development
 
