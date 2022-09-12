@@ -1,6 +1,6 @@
 # CV with HTLM based
 
-This is my personal resume. Inspired by [Dr. Angela Yu](https://github.com/angelabauer) and several IT professors. Simplification is key!
+This is my personal resume. Inspired by [Dr. Angela Yu](https://github.com/angelabauer) and several IT professors 😊😊😊. Simplification is key!
 
 ## Table of contents
 
@@ -36,9 +36,9 @@ Continue to study frontend and backend website development. I hope I can become 
 
 ## Author
 
--   LinkedIn - [Muhammad Farhan Ramadhany](https://www.linkedin.com/in/farhanramadhany/)
+-   LinkedIn - [Muhammad Farhan Ramadhany](https://www.linkedin.com/in/farhanramadhany/) 👈👈👈
 -   Frontend Mentor - [@farhanrmdhany](https://www.frontendmentor.io/profile/farhanrmdhany)
 
 ## Acknowledgments
 
-I would like to express my special gratitude to my mentor and colleagues who gave me the golden opportunity to do many wonderful projects, which also helped me in doing a lot of Research and I came to know about so many new things. I am really thankful to them.
+I would like to express my special gratitude to my mentor and colleagues who gave me the golden opportunity to do many wonderful projects, which also helped me in doing a lot of Research and I came to know about so many new things. I am really thankful to them ❤️❤️❤️.
